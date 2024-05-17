@@ -1,10 +1,10 @@
 # .github
 
-procyberian system distribution - psd
+Procyberian System Distribution - PSD
 
 # License
 
-procyberian system distribution - psd
+Procyberian System Distribution - PSD
 
 Copyright (C) 2017-2024 Masscollabs Services
 
