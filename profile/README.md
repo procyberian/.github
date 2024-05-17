@@ -12,7 +12,7 @@
 
 # License
 
-Procyberian System Distribution - PSD
+Procyberian Systems Distribution - PSD
 
 Copyright (C) 2017-2024 Masscollabs Services
 

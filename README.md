@@ -1,14 +1,14 @@
 # .github
 
-Procyberian System Distribution - PSD
+Procyberian Systems Distribution - PSD
 
 # License
 
-Procyberian System Distribution - PSD
+Procyberian Systems Distribution - PSD
 
 Copyright (C) 2017-2024 Masscollabs Services
 
-Copyright (C) 2017-2024 procyberian and contributors
+Copyright (C) 2017-2024 Procyberian and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
