@@ -1,8 +1,8 @@
 # Hi there 👋
 
-🙋‍♀️ procyberian system distribution is a software distribution across operating systems
+🙋‍♀️ Procyberian Systems Distribution(PSD) is a software distribution across operating systems
 
-🌈 you may fork our repositories and change as you wish and then raise a pull request to join us for psd development
+🌈 you may fork our repositories and change as you wish and then raise a pull request to join us for PSD development
 
 👩‍💻 we are writing our docs for each repository and project
 
