@@ -29,4 +29,4 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Feel free to send an email for your questions to mertgor at masscollabs dot xyz
+Feel free to join our [e-mail list](https://www.masscollabs.xyz/mailman/listinfo/hackathon_procyberian.xyz) for your qquestions. 
