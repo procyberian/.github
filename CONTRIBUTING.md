@@ -4,7 +4,7 @@ Thanks for taking the time to contribute to [Procyberian Systems Distribution](h
 
 The Procyberıan Systems Dıstrıbutıon community is not an ["Open Source" community](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html) but we are open to all kinds of hacker cultures and we respect their contributions. 
 
-Also, we use a mailing list (```hackathon@procyberian.xyz```) for dıscussıons of the development, our regular hackathons and bug reports.
+Also, we use a mailing list (```hackathon@procyberian.xyz```) for discussions of the development, our regular hackathons and bug reports.
 
 Please read our ["Code of Conduct"](https://github.com/masscollabs/CODE_OF_CONDUCT.md) and if you don't agree please do not send a Pull Request for becoming a member. We have a freedom respecting and friendly policy but we don't accept people who will bait and switch.
 	
