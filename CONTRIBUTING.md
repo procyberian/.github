@@ -61,3 +61,5 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Feel free to send an email for your questions to mertgor at masscollabs dot xyz
+
+* Influenced by GCC Community **[CONTRIBUTING.md](https://github.com/gcc-mirror/gcc/blob/master/.github/CONTRIBUTING.md)**
