@@ -2,7 +2,7 @@
 
 Thanks for taking the time to contribute to [Procyberian Systems Distribution](https://github.com/procyberian)! Please be advised that if you are viewing this on ```github.com```, that this is one of the forge account like [others](https://github.com/hwpplayer1/hacker-how-to).
 
-The Procyberıan Systems Dıstrıbutıon community ıs not an ["Open Source" community](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html) but we are open to all kinds of hacker cultures and we respect their contributions. 
+The Procyberıan Systems Dıstrıbutıon community is not an ["Open Source" community](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html) but we are open to all kinds of hacker cultures and we respect their contributions. 
 
 Also, we use a mailing list (```hackathon@procyberian.xyz```) for dıscussıons of the development, our regular hackathons and bug reports.
 
