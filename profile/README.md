@@ -4,7 +4,7 @@
 
 🌈 you may fork our repositories and change as you wish and then raise a pull request to join us for PSD development
 
-👩‍💻 we are writing our docs for each repository and project
+👩‍💻 Please read [How To Ask Questions The Smart Way](https://github.com/procyberian/How-To-Ask-Questions-The-Smart-Way)
 
 🍿 we eat banana for our breakfast and we have a cup of coffee
 
