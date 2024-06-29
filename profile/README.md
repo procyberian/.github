@@ -1,14 +1,6 @@
 # Hi there 👋
 
-🙋‍♀️ Procyberian Systems Distribution(PSD) is a software distribution across operating systems
-
-🌈 you may fork our repositories and change as you wish and then raise a pull request to join us for PSD development
-
-👩‍💻 Please read [How To Ask Questions The Smart Way](https://github.com/procyberian/How-To-Ask-Questions-The-Smart-Way)
-
-🍿 we eat banana for our breakfast and we have a cup of coffee
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ Procyberian Systems Distribution(PSD) is a Free Software GNU/Linux distribution based on Debian GNU/Linux Operating System
 
 # License
 
