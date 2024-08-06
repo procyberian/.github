@@ -16,15 +16,19 @@ Your friendly [PSD](https://github.com/procyberian) community!
 
 # License for documentation
 
-Copyright (C)  2024  QB Networks
+Copyright (C) 2024-2025 QB Networks
 
-Copyright (C)  2017-2024  Masscollabs Services
+Copyright (C) 2017-2025 Masscollabs Services
 
-Copyright (C)  2017-2024  procyberian and contributors
+Copyright (C) 2017-2025 Procyberian and contributors
 
-Copyright (C)  2017-2024  amassivus and contributors
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
 
-Copyright (C)  2017-2024  Mass Collaboration Labs and contributors
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -37,15 +41,19 @@ Free Documentation License".
 
 Procyberian Systems Distribution - PSD
 
-Copyright (C) 2024 QB Networks
+Copyright (C) 2024-2025 QB Networks
 
-Copyright (C) 2017-2024 Masscollabs Services
+Copyright (C) 2017-2025 Masscollabs Services
 
-Copyright (C) 2017-2024 procyberian and contributors
+Copyright (C) 2017-2025 Procyberian and contributors
 
-Copyright (C) 2017-2024 amassivus and contributors
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
 
-Copyright (C) 2017-2024 Mass Collaboration Labs and contributors
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
