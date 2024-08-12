@@ -6,7 +6,7 @@ The Procyberian Systems Distribution community is not an ["Open Source" communit
 
 Also, we use a mailing list (```hackathon@procyberian.xyz```) for discussions of the development, our regular hackathons and bug reports.
 
-Please read our ["Code of Conduct"](https://github.com/masscollabs/CODE_OF_CONDUCT.md) and if you don't agree please do not send a Pull Request for becoming a member. We have a freedom respecting and friendly policy but we don't accept people who will bait and switch.
+Please read our ["Code of Conduct"](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md) and if you don't agree please do not send a Pull Request for becoming a member. We have a freedom respecting and friendly policy but we don't accept people who will bait and switch.
 	
 All domains and computing environments are moderated but open to everyone and we don't hide our management processes.
 
