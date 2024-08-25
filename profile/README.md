@@ -4,6 +4,8 @@ Procyberian Systems Distribution(PSD) is a Free Software GNU/Linux distribution 
 
 Please read our [Code of Conduct](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md)
 
+And send an email to our [Hackathon e-mail list](https://procyberian.xyz/mailman/listinfo/hackathon_procyberian.xyz)
+
 # License
 
 Procyberian Systems Distribution - PSD
