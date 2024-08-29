@@ -30,6 +30,8 @@ Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
 
+Copyright (C) 2024-2025  Birleşik Dergi Yazarları
+
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
 or any later version published by the Free Software Foundation;
@@ -54,6 +56,8 @@ Copyright (C) 2017-2025 amassivus and contributors
 Copyright (C) 2024-2025 godigitalist and contributors
 
 Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025  Birleşik Dergi Yazarları
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
