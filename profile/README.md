@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Procyberian Systems Distribution(PSD) is a Free Software GNU/Linux distribution based on Debian GNU/Linux Operating System
+With our Procyberian Systems Distribution(PSD) our goal is to make a next generation UNIX and cross platform software freely available. 
 
 Please read our [Code of Conduct](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md)
 
