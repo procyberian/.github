@@ -8,6 +8,19 @@ Please read our [Code of Conduct](https://github.com/masscollabs/masscollabs/blo
 
 And send an email to our [Hackathon e-mail list](https://procyberian.xyz/mailman/listinfo/hackathon_procyberian.xyz)
 
+
+## Free Software
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+
+The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+
+The freedom to redistribute copies so you can help others (freedom 2).
+
+The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+And please see [Free Software Definition page](https://www.gnu.org/philosophy/free-sw.html)
+
 # License
 
 Copyright (C) 2024-2025 QB Networks
