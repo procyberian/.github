@@ -23,6 +23,7 @@ And please see [Free Software Definition page](https://www.gnu.org/philosophy/fr
 
 # License
 
+
 Copyright (C) 2024-2025 QB Networks
 
 Copyright (C) 2017-2025 Masscollabs Services
@@ -38,6 +39,10 @@ Copyright (C) 2024-2025 godigitalist and contributors
 Copyright (C) 2024-2025 bilsege and contributors
 
 Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+
+Copyright (C) 2024-2025 exsay and contributors
+
+Copyright (C) 2024-2025 Açık Ağ ve katkıcıları
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
