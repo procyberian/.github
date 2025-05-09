@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![PSD](../img/procyberian_blue_light.png)
+
 With our Procyberian Systems Distribution(PSD) our goal is to make a next generation UNIX and cross platform software freely available. 
 
 We recommend Copyleft licenses for projects that we started for our roadmap and our close business partners. We recommend Permissive Open Source Licenses for other people and institutions who does not work directly with us. For example, we recommend licenses such as BSD-3 Clause license, Expat/MIT license, Apache-2 license, or ISC for people and institutions that are not directly affiliated with us. However, many libraries and frameworks can already be permissive licensed we intend to rewrite these licensed software. But what I want to emphasize is the situation and possibility of producing permissive licensed code depending on the situation. It may be fixing bugs, or contributing. It is about that if we don't make a significant change we don't touch the license. Nothing more. So we focus on Copyleft and hopefully you will understand our priorities. Thank you and wish you success. Happy hacking!
