@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![PSD](../img/psd_new_butterfly_origami_wordmark.svg)
+![PSD](../img/psd_leadership.svg.png)
 
 With our Procyberian Systems Distribution(PSD) our goal is to make a next generation UNIX and cross platform software freely available. 
 
