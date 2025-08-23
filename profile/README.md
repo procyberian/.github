@@ -42,9 +42,13 @@ Copyright (C) 2024-2025 bilsege and contributors
 
 Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
-Copyright (C) 2024-2025 exsay and contributors
+Copyright (C) 2025 Exsay and contributors
 
-Copyright (C) 2024-2025 Açık Ağ ve katkıcıları
+Copyright (C) 2025 Açık Ağ ve katkıcıları
+
+Copyright (C) 2025 cekirdek.xyz ve katkıcıları
+
+Copyright (C) 2025 The Go Game Network
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
