@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="frLeT0IL22_cNnJ7TkjS">
+    <mxGraphModel dx="466" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-1" value="PSD(Procyberian Systems Distribution) Leader&amp;nbsp;&lt;div&gt;who is&amp;nbsp;&lt;div&gt;Elected through BSD-style model&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFYCtZeZMomMkJpq0GXR-4" target="tFYCtZeZMomMkJpq0GXR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-4" value="Project Leader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFYCtZeZMomMkJpq0GXR-8" target="tFYCtZeZMomMkJpq0GXR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFYCtZeZMomMkJpq0GXR-8" target="tFYCtZeZMomMkJpq0GXR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-8" value="Core Team Leaders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFYCtZeZMomMkJpq0GXR-10" target="tFYCtZeZMomMkJpq0GXR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFYCtZeZMomMkJpq0GXR-10" target="tFYCtZeZMomMkJpq0GXR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-10" value="Committers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tFYCtZeZMomMkJpq0GXR-12" target="tFYCtZeZMomMkJpq0GXR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-12" value="Contributors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-17" value="Apple Ecosystem , Windows , Google Ecosystem and all cloud providers&amp;nbsp;&lt;div&gt;MIT , BSD-style , and other permissive licenses&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFYCtZeZMomMkJpq0GXR-18" value="on GNU/Linux&amp;nbsp;&lt;div&gt;GPLv3-or-later and AGPLv3-or-later and other copyleft licenses&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="440" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
