@@ -4,29 +4,29 @@ Procyberian Systems Distribution ( PSD )
 
 # License
 
-Copyright (C) 2024-2025 QB Networks
+Copyright (C) 2024-2026 QB Networks
 
-Copyright (C) 2017-2025 Masscollabs Services
+Copyright (C) 2017-2026 Masscollabs Services
 
-Copyright (C) 2017-2025 Procyberian and contributors
+Copyright (C) 2017-2026 PSD Authors
 
-Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+Copyright (C) 2017-2026 Mass Collaboration Labs
 
-Copyright (C) 2017-2025 amassivus and contributors
+Copyright (C) 2017-2026 amassivus and contributors
 
-Copyright (C) 2024-2025 godigitalist and contributors
+Copyright (C) 2024-2026 godigitalist and contributors
 
-Copyright (C) 2024-2025 bilsege and contributors
+Copyright (C) 2024-2026 bilsege and contributors
 
-Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+Copyright (C) 2024-2026 Birleşik Dergi Yazarları
 
-Copyright (C) 2025 Exsay and contributors
+Copyright (C) 2025-2026 Exsay and contributors
 
-Copyright (C) 2025 Açık Ağ ve katkıcıları
+Copyright (C) 2025-2026 Açık Ağ ve katkıcıları
 
-Copyright (C) 2025 cekirdek.xyz ve katkıcıları
+Copyright (C) 2025-2026 cekirdek.xyz ve katkıcıları
 
-Copyright (C) 2025 The Go Game Network
+Copyright (C) 2025-2026 The Go Game Network
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
