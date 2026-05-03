@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![PSD](../img/procyberians_leadership.svg.png)
+![PSD](../img/psdx_leadership.svg.png)
 
 With our Procyberian Systems Distribution(PSD) our goal is to make a next generation operating system and cross platform software freely available. 
 
